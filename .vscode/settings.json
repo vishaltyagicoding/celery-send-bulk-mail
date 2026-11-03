@@ -1,0 +1,14 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+} // {
+//   "editor.tokenColorCustomizations": {
+//     "textMateRules": [
+//       {
+//         "scope": "keyword.control.import.python",
+//         "settings": {
+//           "foreground": "#bfcf0e"
+//         }
+//       }
+//     ]
+//   }
+// }
